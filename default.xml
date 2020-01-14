@@ -32,7 +32,8 @@
   <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32f103_zhinanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F103_指南者"/>
   <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32f103_badao" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F103_霸道"/>
   <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32f407_batianhu" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F407_霸天虎"/>
-  <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32f429_tiaozhanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F429_挑战者"/>
+  <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32f429_tiaozhanzhe_v1" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F429_挑战者_V1"/>
+  <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32f429_tiaozhanzhe_v2" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F429_挑战者_V2"/>
   <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32f767_tiaozhanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F767_挑战者"/>
   <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32h743_pro" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H743_Pro"/>
   <project remote="githubEmbedfire-emwin" revision="master" name="ebf_emwin_tutorial_code_stm32h743_tiaozhanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H743_挑战者"/>
